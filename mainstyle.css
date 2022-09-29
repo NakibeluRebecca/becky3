@@ -1,0 +1,13 @@
+*{
+    font-family: arial;
+}
+
+h1{
+    color:green;
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    background-color: aqua;
+}
